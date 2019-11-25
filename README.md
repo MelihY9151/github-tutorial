@@ -1,9 +1,9 @@
 # GitHub Tutorial
 
-_by <your-name-here>_
+_by Melih Yumusak_
 
 ---
-## Git vs. GitHub
+## __Git vs. GitHub__
 
 
 
