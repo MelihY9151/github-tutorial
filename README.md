@@ -15,7 +15,7 @@ _by Melih Yumusak_
 ---
 ## Initial Setup
 setting up an **SSH**
- *In the command line type 
+ * In the command line type 
 
 ---
 ## Repository Setup
