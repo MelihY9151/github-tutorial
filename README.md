@@ -6,7 +6,7 @@ _by Melih Yumusak_
 ## Git vs. GitHub
  Git|Github 
  -------------------|-------------------
- Version controle system.| Has certain user interface options. <font size="0.5">___**EX:** The ablity edit whitout comand prompt.___ </font>
+ Version controle system.| Has certain user interface options. ___**EX:** The ablity edit whitout comand prompt.___ 
  Comand line tool.| Used for colobration 
  Desktop interface. | Website
  Localy saved. | Saved on cloud 
@@ -14,8 +14,8 @@ _by Melih Yumusak_
 
 ---
 ## Initial Setup
-
-
+setting up an **SSH**
+ *In the command line type 
 
 ---
 ## Repository Setup
