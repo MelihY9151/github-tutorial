@@ -3,8 +3,13 @@
 _by Melih Yumusak_
 
 ---
-## __Git vs. GitHub__
-
+## Git vs. GitHub
+ Git|Github 
+ -------------------|-------------------
+ Version controle system.| Has certain user interface options.
+ Comand line tool.| Used for colobration 
+ Desktop interface. | Website
+ Localy saved. | Saved on cloud 
 
 
 ---
