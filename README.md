@@ -27,7 +27,15 @@ _by Melih Yumusak_
  1. Go to root directory ` cd ~ `
  2. `ssh-keygen -t rsa -b 4096 -C "your@email.com"`
     - Press enter until you see key's randomart
+ 3. Type `eval "$(ssh-agent -s)"`
+    - Will start agent
+ 4. Type `ls -al ~/.ssh` 
+    - You will see a file named `id_rsa.pub`
+ 5. Type `cat ~/.ssh/id_rsa.pub` 
+ 6. Copy all results _will start whit_ `ssh-rsa`
+ 7. Click on the link [Github SSH](https://github.com/settings/keys)
 ---
+
 ## Repository Setup
 
 
