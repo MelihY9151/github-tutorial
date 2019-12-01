@@ -54,6 +54,10 @@ _by Melih Yumusak_
 #### Auto save 
   1. On the *LEFT* side  scroll down click **Experimental**
   2. Change **Auto-Save** dropdown to On **Focus Change**
+
+#### SSH importance 
+ This is used in order to help solve conectivity problems in a cloud. SSH (Secure Shell or Secure Socket Shell) network protocol that gives user particular system administrator. Secure way to access a computer over unsecured network
+
 ---
 
 ## Repository Setup
