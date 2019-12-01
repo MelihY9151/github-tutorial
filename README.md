@@ -34,6 +34,11 @@ _by Melih Yumusak_
  5. Type `cat ~/.ssh/id_rsa.pub` 
  6. Copy all results _will start whit_ `ssh-rsa`
  7. Click on the link [Github SSH](https://github.com/settings/keys)
+    - New SSH key 
+    - Title- ide50 
+    - Paste SSH key 
+    - Click on the green **_Add SSH key button_**
+    - Go to your ide type `sudo nano ~/.ssh/config`
 ---
 
 ## Repository Setup
