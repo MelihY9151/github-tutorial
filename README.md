@@ -38,7 +38,22 @@ _by Melih Yumusak_
     - Title- ide50 
     - Paste SSH key 
     - Click on the <span style="color:Green">green</span> **_Add SSH key button_**
-    - Go to your ide type `sudo nano ~/.ssh/config`
+  8. Go to your ide type `sudo nano ~/.ssh/config`
+  9. Paste   `Host github.com
+      Hostname ssh.github.com
+      Port 443`  
+  10. **control+X** to exit, then press **Y** then **ENTER** 
+  11. Type `ssh -T git@github.com`
+  12. Type _**Yes**_ & _**Enter**_
+
+#### IDE 50 setup _(Optional but useful)_
+  1. Go to top-left corner of the IDE press CS50 IDE then **Preferences**
+  2. Left side of the new window click **User settings** 
+  3. On the right click **Enable Preview to ON**
+
+#### Auto save 
+  1. On the *LEFT* side  scroll down click **Experimental**
+  2. Change **Auto-Save** dropdown to On **Focus Change**
 ---
 
 ## Repository Setup
