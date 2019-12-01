@@ -37,7 +37,7 @@ _by Melih Yumusak_
     - New SSH key 
     - Title- ide50 
     - Paste SSH key 
-    - Click on the green **_Add SSH key button_**
+    - Click on the <span style="color:Green">green</span> **_Add SSH key button_**
     - Go to your ide type `sudo nano ~/.ssh/config`
 ---
 
