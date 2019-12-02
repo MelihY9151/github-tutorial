@@ -88,7 +88,12 @@ _by Melih Yumusak_
          `git remote add origin git@github.com:MelihY9151/Testtest.git`
   
          `git push -u origin master`
+
+ The remote bond between our repository and a outside one.The add is we are adding a remote to uour ide repo. Origin is the name of the repo it is a common name. Finally the url is the place the repo will head if you push.  
+
+
 ---
+
 
 ## Workflow & Commands
 
