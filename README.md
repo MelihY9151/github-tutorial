@@ -17,6 +17,15 @@ _by Melih Yumusak_
 
 ---
 ## Initial Setup
+
+#### Making a github 
+ 1. Go to github.com 
+ 2. Click the the green button that _says singn up for github_
+ 3. Fill in the nesesary info ie a _username, email and, password_ _(Hstat student your school email whitout everything after the @)_
+ 4. Select a plan _(HSTAT students pick free)_ 
+ 5. Skip the Welcome to github page if you would like
+ 6. Verify the email
+
 #### Setting up **User Info**
  1. In the command line type `git config --global user.email "you@example.com"`
     - Replace `"you@example.com"` whit your own email. 
@@ -61,10 +70,13 @@ _by Melih Yumusak_
 ---
 
 ## Repository Setup
-
-
-
+**Do not init git in tilda (Main)**
+ 1. Make a repo in your ide `Mkdir Name` _(Hstat students call it github learning)_
+ 2. Type `git add .` This will stage the changes you just made 
+ 3. Type `git commit -m "phrase"` This will ensure that any changes you have made will be saved on the cloud 
+ 4. 
 ---
+
 ## Workflow & Commands
 
 
