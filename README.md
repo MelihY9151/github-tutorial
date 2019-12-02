@@ -74,7 +74,20 @@ _by Melih Yumusak_
  1. Make a repo in your ide `Mkdir Name` _(Hstat students call it github learning)_
  2. Type `git add .` This will stage the changes you just made 
  3. Type `git commit -m "phrase"` This will ensure that any changes you have made will be saved on the cloud 
- 4. 
+
+#### New repo on git 
+ 1. Go to github.com 
+ 2. Click on the plus sign in the top right 
+ 3. Click on _New Repository_
+ 4. The repo name should be the same as the repo made on github or you will get a push error 
+ 5. Click Create repository
+ 6. Make sure SSH is picked
+ 7. Copy and paste **…or push an existing repository from the command line**
+   - EX 
+   
+         `git remote add origin git@github.com:MelihY9151/Testtest.git`
+  
+         `git push -u origin master`
 ---
 
 ## Workflow & Commands
