@@ -72,6 +72,9 @@ _by Melih Yumusak_
 ## Repository Setup
 **Do not init git in tilda (Main)**
  1. Make a repo in your ide `Mkdir Name` _(Hstat students call it github learning)_
+ 2. Type `cd Name`
+ 3. Type `git init`
+ 4. Type some text 
  2. Type `git add .` This will stage the changes you just made 
  3. Type `git commit -m "phrase"` This will ensure that any changes you have made will be saved on the cloud 
 
