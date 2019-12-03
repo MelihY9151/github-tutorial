@@ -41,7 +41,7 @@ _by Melih Yumusak_
  4. Type `ls -al ~/.ssh` 
     - You will see a file named `id_rsa.pub`
  5. Type `cat ~/.ssh/id_rsa.pub` 
- 6. Copy all results _will start whit_ `ssh-rsa`
+ 6. Copy all results _will start with_ `ssh-rsa`
  7. Click on the link [Github SSH](https://github.com/settings/keys)
     - New SSH key 
     - Title- ide50 
@@ -112,10 +112,10 @@ _by Melih Yumusak_
 ---
 ## Rolling Back Changes
 
-Undo edit- `git reset HEAD _Name_` This will delet any unsaved edits that were done since last commit. 
+Undo edit- `git reset HEAD _Name_` This will delete any unsaved edits that were done since last commit. 
 
 Undo add- `Run git reset _Name_ ` This will unstage all files that have been staged. 
 
 Undo commit- `git reset HEAD` This will revert the most recent commit.  
 
-Undo push- `git push origin --delete _Name_` This will delet the push. 
+Undo push- `git push origin --delete _Name_` This will delete the push. 
