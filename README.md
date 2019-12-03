@@ -112,10 +112,10 @@ _by Melih Yumusak_
 ---
 ## Rolling Back Changes
 
-Undo edit- `git reset HEAD _Name_` This will delet any unsaved edits that were done since last commit. 
+Undo edit- `git reset HEAD _Name_` This will delete any unsaved edits that were done since last commit. 
 
 Undo add- `Run git reset _Name_ ` This will unstage all files that have been staged. 
 
 Undo commit- `git reset HEAD` This will revert the most recent commit.  
 
-Undo push- `git push origin --delete _Name_` This will delet the push. 
+Undo push- `git push origin --delete _Name_` This will delete the push. 
