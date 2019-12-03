@@ -74,7 +74,7 @@ _by Melih Yumusak_
  1. Make a repo in your ide `Mkdir Name` _(Hstat students call it github learning)_
  2. Type `cd Name`
  3. Type `git init`
- 4. Type some text 
+ 4. Type `touch` README.txt
  2. Type `git add .` This will stage the changes you just made 
  3. Type `git commit -m "phrase"` This will ensure that any changes you have made will be saved on the cloud 
 
