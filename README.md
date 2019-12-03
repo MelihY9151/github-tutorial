@@ -41,7 +41,7 @@ _by Melih Yumusak_
  4. Type `ls -al ~/.ssh` 
     - You will see a file named `id_rsa.pub`
  5. Type `cat ~/.ssh/id_rsa.pub` 
- 6. Copy all results _will start whit_ `ssh-rsa`
+ 6. Copy all results _will start with_ `ssh-rsa`
  7. Click on the link [Github SSH](https://github.com/settings/keys)
     - New SSH key 
     - Title- ide50 
