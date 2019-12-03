@@ -91,13 +91,28 @@ _by Melih Yumusak_
 
  The remote bond between our repository and a outside one.The add is we are adding a remote to uour ide repo. Origin is the name of the repo it is a common name. Finally the url is the place the repo will head if you push.  
 
+ Git push will send your repo to github where it will be a new copy of it.  
 
 ---
 
 
 ## Workflow & Commands
-
+  Git status-This is used to determine whethier git is initilized and to determine if there are any unsaved changes to git. 
+  
+  Git add-This will alow you to stage any changes that have been added to the repo. 
+  
+  Git commit-This will snapshot any added things to your cloud or harddrive. 
+  
+  Git push-This will send a copy of the repo to cloud or to github. 
 
 
 ---
 ## Rolling Back Changes
+
+Undo edit- `git reset HEAD _Name_` This will delet any unsaved edits that were done since last commit. 
+
+Undo add- `Run git reset _Name_ ` This will unstage all files that have been staged. 
+
+Undo commit- `git reset HEAD` This will revert the most recent commit.  
+
+Undo push- `git push origin --delete _Name_` This will delet the push. 
